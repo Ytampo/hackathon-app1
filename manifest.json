@@ -25,8 +25,8 @@
             "type": "image/jpg"
         }
     ],
-    "start_url": "https://ytampo.github.io/hackasonapp01/index.html",
-    "scope": "https://ytampo.github.io/hackasonapp01/",
+    "start_url": "https://ytampo.github.io/hackathon-app01/index.html",
+    "scope": "https://ytampo.github.io/hackathon-app01/",
     "display": "standalone",
     "theme_color": "#85023e",
     "orientation": "portrait-primary",
